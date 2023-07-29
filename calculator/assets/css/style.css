@@ -1,0 +1,14 @@
+ 
+.container{
+    display: grid;
+    grid-template-columns: 100px, 100px, 100px;
+}
+
+#start2{
+    display: grid;
+
+}
+
+body{
+    background-color: re;
+}
